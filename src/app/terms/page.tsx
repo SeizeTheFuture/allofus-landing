@@ -68,8 +68,13 @@ export default function TermsPage() {
 
             <h3>2. Eligibility</h3>
             <p>
-              You must be at least 18 years old to create an account and use the
-              App. By using the App, you represent that you meet this requirement.
+              You must be at least 13 years old to create an account and use the
+              App. If you are between 13 and 17, you may only use the App with
+              the knowledge and consent of a parent or legal guardian, who agrees
+              to these Terms on your behalf and is responsible for your use of
+              the App. We do not knowingly allow anyone under 13 to create an
+              account. By using the App, you represent that you meet these
+              requirements.
             </p>
 
             <h3>3. Account Responsibilities</h3>
@@ -180,8 +185,9 @@ export default function TermsPage() {
               or abusive behavior. You can report any user, message, or review
               from inside the App (the &ldquo;&bull;&bull;&bull;&rdquo; menu on a
               profile or conversation, or by long-pressing a message) and block
-              any user at any time. We review every report within 24 hours and
-              remove content and accounts that violate these standards.
+              any user at any time. We review reports promptly &mdash; usually within
+              24 hours &mdash; and remove content and terminate accounts that
+              violate these standards.
             </p>
 
             <h3>8. Intellectual Property</h3>
