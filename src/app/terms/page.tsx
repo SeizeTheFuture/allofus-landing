@@ -175,6 +175,14 @@ export default function TermsPage() {
                 manipulate ratings.
               </li>
             </ul>
+            <p>
+              We have <strong>zero tolerance</strong> for objectionable content
+              or abusive behavior. You can report any user, message, or review
+              from inside the App (the &ldquo;&bull;&bull;&bull;&rdquo; menu on a
+              profile or conversation, or by long-pressing a message) and block
+              any user at any time. We review every report within 24 hours and
+              remove content and accounts that violate these standards.
+            </p>
 
             <h3>8. Intellectual Property</h3>
             <p>
